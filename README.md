@@ -1,4 +1,4 @@
-#Simple Chatty Bot - project from hyperskill.org / JetBrains Academy
+# [Simple Chatty Bot](https://hyperskill.org/projects/206) - project from [hyperskill.org](https://hyperskill.org) (JetBrains Academy)
 
 Simple app to get to know basic syntax of Java and use variables, conditions, loops and functions.
 
